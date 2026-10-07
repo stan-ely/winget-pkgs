@@ -12,7 +12,6 @@ UpgradeBehavior: install
 ReleaseDate: "2026-09-17"
 AppsAndFeaturesEntries:
   - DisplayName: qrdrop
-    DisplayVersion: "1.1.0"
     ProductCode: qrdrop
     InstallerType: nullsoft
 Installers:
